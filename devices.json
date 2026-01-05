@@ -1,14 +1,10 @@
 {
   "supported_devices": {
-    "Infinix-X669": {
-      "name": "Infinix HOT 30i",
-      "status": "beta",
-      "description": "Бета-сборка KomorOS. Возможны баги."
-    },
     "Infinix-X669D": {
       "name": "Infinix HOT 30i (NFC)",
-      "status": "beta",
-      "description": "Бета-сборка KomorOS."
+      "required_build": "V416",
+      "download_url": "https://github.com/KomorOS/Beta/releases/download/Beta3X669D/KomorOSPublicBeta3.img",
+      "description": "База V416, разблокированный загрузчик."
     }
   }
 }
