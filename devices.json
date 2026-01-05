@@ -1,1 +1,14 @@
-
+{
+  "supported_devices": {
+    "Infinix-X669": {
+      "name": "Infinix HOT 30i (NFC)",
+      "status": "beta",
+      "description": "Бета-сборка KomorOS. Возможны баги с камерой."
+    },
+    "Infinix-X669D": {
+      "name": "Infinix HOT 30i (NFC)",
+      "status": "beta",
+      "description": "Бета-сборка KomorOS. Проверьте версию прошивки."
+    }
+  }
+}
